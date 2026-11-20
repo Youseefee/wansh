@@ -4,13 +4,14 @@ Bilingual (Arabic RTL / English LTR) monorepo for the **Wenshy** tow-truck & roa
 
 ---
 
-## 📱 Direct Android APK Downloads (تحميل التطبيقات مباشرة)
+## 📱 تحميل تطبيقات أندرويد (GitHub Releases — Direct APK Downloads)
 
-| App / التطبيق | Direct APK Link (GitHub Releases) | Mirror Link (`gh-pages`) | Size |
-| --- | --- | --- | --- |
-| **Wenshy Customer (تطبيق العميل)** | [Download `wenshy-customer.apk`](https://github.com/Youseefee/wansh/releases/latest/download/wenshy-customer.apk) | [Mirror APK](https://raw.githubusercontent.com/Youseefee/wansh/gh-pages/wenshy-customer.apk) | 20.0 MB (`arm64-v8a`) |
-| **Wenshy Driver (تطبيق السائق)** | [Download `wenshy-driver.apk`](https://github.com/Youseefee/wansh/releases/latest/download/wenshy-driver.apk) | [Mirror APK](https://raw.githubusercontent.com/Youseefee/wansh/gh-pages/wenshy-driver.apk) | 19.9 MB (`arm64-v8a`) |
-| **Download Portal Page (صفحة التحميل)** | [Open Web Download Portal](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Youseefee/wansh/gh-pages/index.html) | `gh-pages` (`https://youseefee.github.io/wansh/`) | Web |
+صفحة الإصدار الرسمية (Releases): **[Wenshy v1.0.0 Release](https://github.com/Youseefee/wansh/releases/latest)**
+
+| التطبيق / App | رابط التحميل المباشر (Direct APK) | الحجم |
+| --- | --- | --- |
+| **تطبيق ونشي للعملاء (Wenshy Customer)** | [**تحميل `wenshy-customer.apk`**](https://github.com/Youseefee/wansh/releases/latest/download/wenshy-customer.apk) | 20.0 MB (`arm64-v8a`) |
+| **تطبيق ونشي للسائقين (Wenshy Driver)** | [**تحميل `wenshy-driver.apk`**](https://github.com/Youseefee/wansh/releases/latest/download/wenshy-driver.apk) | 19.9 MB (`arm64-v8a`) |
 
 ---
 
