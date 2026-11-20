@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="140dp"
+    android:viewportWidth="140"
+    android:viewportHeight="140">
+    <!-- Outer soft amber ring -->
+    <path
+        android:fillColor="#1AF59E0B"
+        android:pathData="M70,10 A60,60 0 1,0 70,130 A60,60 0 1,0 70,10 Z" />
+    <!-- Branded amber pin shield -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M42,34 L98,34 C104.6,34 110,39.4 110,46 L110,88 C110,94.6 104.6,100 98,100 L79,100 L70,112 L61,100 L42,100 C35.4,100 30,94.6 30,88 L30,46 C30,39.4 35.4,34 42,34 Z" />
+    <!-- Stylized 'W' mark -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M43,50 L53,50 L59,74 L66,55 L74,55 L81,74 L87,50 L97,50 L86,86 L77,86 L70,66.5 L63,86 L54,86 Z" />
+</vector>

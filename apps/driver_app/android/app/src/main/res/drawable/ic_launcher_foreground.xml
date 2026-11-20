@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle amber badge ring within adaptive icon safe zone -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.4"
+        android:pathData="M54,24 A30,30 0 1,1 53.99,24 Z" />
+    <!-- Stylized Wenshy Tow Truck silhouette (amber primary) -->
+    <!-- Flatbed deck -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M31,58 L61,58 L61,51 L31,51 Z" />
+    <!-- Tow boom / crane arm -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M35,51 L48,37 L53,41 L42,51 Z" />
+    <!-- Hook drop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,46 L37,46 L37,51 L34,51 Z" />
+    <!-- Truck cab -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M61,44 L72,44 C74.5,44 76.5,46 77.2,48.5 L79,55 L79,60 L61,60 Z" />
+    <!-- Cab windshield -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M64,47 L71.5,47 L73.5,52 L64,52 Z" />
+    <!-- Lower chassis bar -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M31,58 L79,58 L79,63 L31,63 Z" />
+    <!-- Rear wheel -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41,58 A5.5,5.5 0 1,1 40.99,58 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M41,60.5 A3,3 0 1,1 40.99,60.5 Z" />
+    <!-- Front wheel -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,58 A5.5,5.5 0 1,1 69.99,58 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M70,60.5 A3,3 0 1,1 69.99,60.5 Z" />
+    <!-- Amber road accent bar -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M36,72 L72,72 L72,74.5 L36,74.5 Z" />
+</vector>

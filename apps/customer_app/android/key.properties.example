@@ -1,0 +1,7 @@
+# Copy this file to `android/key.properties` and fill in your release keystore
+# credentials. Never commit `android/key.properties` or your `.jks`/`.keystore`
+# file to version control (already ignored in `android/.gitignore`).
+storePassword=CHANGE_ME_STORE_PASSWORD
+keyPassword=CHANGE_ME_KEY_PASSWORD
+keyAlias=wenshy_customer_release
+storeFile=../upload-keystore.jks
